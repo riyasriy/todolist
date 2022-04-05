@@ -1,8 +1,9 @@
+#files to ignore
 private.txt
 dir1/
 dir2/
 
-
+#Exception
 !dir1/dir1file1
 
 
