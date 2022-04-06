@@ -4,6 +4,3 @@ second line
 
 
 third line
-
-
-Fourth Line
